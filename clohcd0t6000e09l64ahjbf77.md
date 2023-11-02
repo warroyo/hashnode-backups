@@ -66,6 +66,8 @@ Just like when pulling back a resource from a k8s cluster there will be fields t
         
     * `clusterEncryptionConfigYaml`
         
+    * `TKR_DATA`
+        
 * `status` - entire section
     
 
@@ -220,7 +222,6 @@ type:
   kind: TanzuKubernetesCluster
   package: vmware.tanzu.manage.v1alpha1.managementcluster.provisioner.tanzukubernetescluster
   version: v1alpha1
-
 ```
 
 You can see that a number of fields now have YTT logic in them. Here is a quick breakdown of what we are doing.
