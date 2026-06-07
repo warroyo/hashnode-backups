@@ -1,4 +1,13 @@
-# How to create custom workload types with TAP
+---
+title: "How to create custom workload types with TAP"
+datePublished: 2023-01-19T16:43:36.264Z
+cuid: cld3bo4i0000208l77kyf6lqz
+slug: how-to-create-custom-workload-types-with-tap
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674146505209/ff88adf0-9015-4dc7-90fd-115db737df49.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1674146591947/2749e71d-3f87-4df1-aeb8-a8c367cf3c5b.png
+tags: vmware, k8s, tanzu
+
+---
 
 I was working with a customer the other day and some questions came up about how to support workloads that may vary from the ones that TAP supports out-of-the-box. Looking at [the docs](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.4/tap/workloads-workload-types.html) we can see that there are 3 types available to use today. This will support the majority of workloads that are commonly used, but what if another use case comes up and we need to quickly add support for deploying that workload on our existing TAP environment? This post will walk through the basic steps of adding a new workload type into TAP.
 
