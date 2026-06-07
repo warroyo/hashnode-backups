@@ -1,7 +1,7 @@
 ---
 title: "Setting static IPs for workloads in TKG"
 seoTitle: "tkg static ips"
-datePublished: Thu Sep 21 2023 17:50:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-21T17:50:32.953Z
 cuid: clmtgxx4p000409l2ciqg5dzi
 slug: setting-static-ips-for-workloads-in-tkg
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695318535218/a2d899fb-abf6-46ff-aa70-f64895e48132.png
