@@ -1,4 +1,12 @@
-# About Me
+---
+title: "About Me"
+datePublished: 2022-01-03T22:58:25.156Z
+cuid: ckxzaal3103bbu8s125hw64p7
+slug: about-me
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/632552254393a6975900e9ad426906e0.jpeg
+tags: introduction
+
+---
 
 Hey! I am Will Arroyo.
 
