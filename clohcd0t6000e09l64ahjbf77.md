@@ -1,7 +1,7 @@
 ---
 title: "Templating cluster creation with  Tanzu Mission Control"
 seoTitle: "tmc cluster templating"
-datePublished: Thu Nov 02 2023 15:28:30 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-11-02T15:28:30.042Z
 cuid: clohcd0t6000e09l64ahjbf77
 slug: templating-cluster-creation-with-tanzu-mission-control
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698938855211/ef5c3194-bcf0-43c8-886d-a32165ca3474.png
