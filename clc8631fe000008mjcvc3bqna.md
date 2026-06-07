@@ -1,4 +1,13 @@
-# Integrating  TAP with Azure DevOps Pipelines
+---
+title: "Integrating  TAP with Azure DevOps Pipelines"
+datePublished: 2022-12-28T21:26:22.970Z
+cuid: clc8631fe000008mjcvc3bqna
+slug: integrating-tap-with-ado-pipelines
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672259097481/4db891ea-1a4d-4c6a-abe5-4c2ff48663d4.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1672262732961/5d4b2ac8-0ed5-46a6-afd6-264a1388c49b.png
+tags: azure, kubernetes, vmware, azure-devops, tanzu
+
+---
 
 TAP has an OOTB source code testing capability that makes use of [Tekton pipelines](https://tekton.dev/docs/pipelines/pipelines/) to execute tests based on your workload types. However, many organizations have already implemented their testing processes in another tool like Jenkins or Azure DevOps (ADO). As of TAP 1.3, you can [natively use Jenkins](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.3/tap/GUID-scc-ootb-supply-chain-testing-with-jenkins.html?hWord=N4IghgNiBcIFYFMB2BrAlkgziAvkA) for your source testing in the TAP supply chain. In talking with several customers and co-workers it was apparent that integrating with ADO would be very useful. In this post, we will walk through the steps to get the TAP source code testing capability working with Azure DevOps pipelines.
 
